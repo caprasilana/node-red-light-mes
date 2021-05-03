@@ -1,0 +1,12 @@
+{
+    "name": "node-red-light-mes",
+    "description": "A simple light MES as POC using Node-red and Siemens S7",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
